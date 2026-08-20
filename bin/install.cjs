@@ -15,7 +15,10 @@ const GGUF_DIR = path.join(ROOT, 'models');
 const wantGguf = process.argv.includes('--gguf') || process.env.QWEN_FROM_GGUF === '1';
 
 function run(cmd, args) {
-  const r = spawnSync(cmd, args, { stdio: 'inherit', windowsHide: true });
+  const ALLOWED_CMDS = ['ollama', 'curl'];
+  const command = ALLOWED_CMDS.find(c => c === cmd);
+  if (!command) throw new Error('Disallowed command: ' + cmd);
+  const r = spawnSync(command, args, { stdio: 'inherit', windowsHide: true });
   if (r.error) throw r.error;
   if (r.status !== 0) process.exit(r.status || 1);
 }
